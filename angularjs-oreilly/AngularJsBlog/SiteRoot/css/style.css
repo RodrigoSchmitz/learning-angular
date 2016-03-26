@@ -70,9 +70,12 @@ body{
 
 .blog-comment-wrapper{
   float: left;
-  width: 100%;
-  margin: 1% 0 0 0;
-  padding: 0 0 0 0;
+  width: 50%;
+  margin: 2% 0 2% 25%;
+  padding: 1%;
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  border: darkgreen solid 1px;
 }
 
 .blog-entry-comments{
